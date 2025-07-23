@@ -1,0 +1,57 @@
+[submodule "src/common"]
+	path = src/common
+	url = git@github.com:DavideCapuzz/common.git
+[submodule "src/gz_interface"]
+	path = src/gz_interface
+	url = git@github.com:DavideCapuzz/gz_interface.git
+[submodule "src/BehaviorTree.CPP"]
+	path = src/BehaviorTree.CPP
+	url = git@github.com:BehaviorTree/BehaviorTree.CPP.git
+[submodule "src/BehaviorTree.ROS2"]
+	path = src/BehaviorTree.ROS2
+	url = git@github.com:BehaviorTree/BehaviorTree.ROS2.git
+[submodule "src/RSL"]
+	path = src/RSL
+	url = git@github.com:PickNikRobotics/RSL.git
+[submodule "src/can_interface"]
+	path = src/can_interface
+	url = git@github.com:DavideCapuzz/can_interface.git
+[submodule "src/cone_finder_cpp"]
+	path = src/cone_finder_cpp
+	url = git@github.com:DavideCapuzz/cone_finder_cpp.git
+[submodule "src/cpp_polyfills"]
+	path = src/cpp_polyfills
+	url = git@github.com:PickNikRobotics/cpp_polyfills.git
+[submodule "src/generate_parameter_library"]
+	path = src/generate_parameter_library
+	url = git@github.com:PickNikRobotics/generate_parameter_library.git
+[submodule "src/interfaces"]
+	path = src/interfaces
+	url = git@github.com:DavideCapuzz/interfaces.git
+[submodule "src/leddar_can"]
+	path = src/leddar_can
+	url = git@github.com:CentralIllinoisRoboticsClub/leddar_can.git
+[submodule "src/slam_toolbox"]
+	path = src/slam_toolbox
+	url = git@github.com:SteveMacenski/slam_toolbox.git
+[submodule "src/ros2_socketcan"]
+	path = src/ros2_socketcan
+	url = git@github.com:autowarefoundation/ros2_socketcan.git
+[submodule "src/state_saver"]
+	path = src/state_saver
+	url = git@github.com:DavideCapuzz/state_saver.git
+[submodule "src/tools_camera"]
+	path = src/tools_camera
+	url = git@github.com:DavideCapuzz/tools_camera.git
+[submodule "src/tools_localization"]
+	path = src/tools_localization
+	url = git@github.com:DavideCapuzz/tools_localization.git
+[submodule "src/tools_mm"]
+	path = src/tools_mm
+	url = git@github.com:DavideCapuzz/tools_mm.git
+[submodule "src/tools_nav"]
+	path = src/tools_nav
+	url = git@github.com:DavideCapuzz/tools_nav.git
+[submodule "src/wheele_model"]
+	path = src/wheele_model
+	url = git@github.com:DavideCapuzz/wheele_model.git
